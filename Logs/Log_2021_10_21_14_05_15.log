@@ -1,0 +1,51 @@
+2021-10-21 17:14:37,097 DEBUG [main] BookRunner:14 - URL Opened
+2021-10-21 17:14:38,171 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 17:14:38,174 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 17:14:38,177 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 17:14:38,178 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 17:14:38,180 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 17:14:38,853 DEBUG [main] BookRunner:14 - Page opend with title India's Best Online Store | Free Shipping | eLocalshop
+2021-10-21 17:14:39,618 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 17:14:39,619 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 17:14:39,620 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 17:14:39,621 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 17:14:39,621 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 17:14:47,405 DEBUG [main] BookRunner:14 - Hindi Book is clicked in page Home page
+2021-10-21 17:14:48,422 DEBUG [main] BookRunner:14 - More Authors is clicked in page Home page
+2021-10-21 17:14:51,042 DEBUG [main] BookRunner:14 - English is clicked in page Hindi Books Page
+2021-10-21 17:15:12,051 DEBUG [main] BookRunner:14 - Book Name is clicked in page Hindi Books Page
+2021-10-21 17:15:15,454 DEBUG [main] BookRunner:14 - Add To Cart is clicked in page Cart Page
+2021-10-21 17:15:18,657 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 17:15:18,659 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 17:15:18,660 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 17:15:18,660 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 17:15:18,661 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 17:15:28,121 DEBUG [main] BookRunner:14 - Books Combo is clicked in page Home Page
+2021-10-21 17:15:31,292 DEBUG [main] BookRunner:14 - Author is clicked in page Books Combo page
+2021-10-21 17:15:37,495 DEBUG [main] BookRunner:14 - Author is clicked in page Books Combo page
+2021-10-21 17:15:50,987 DEBUG [main] BookRunner:14 - The Lost Symbol, Inferno & Origin (Set of 3 Dan Brown Combo Hardcover Edition) is clicked in page Books Combo page
+2021-10-21 17:15:53,514 DEBUG [main] BookRunner:14 - Add To Cart is clicked in page Cart Page
+2021-10-21 17:15:56,785 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 17:15:56,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 17:15:56,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 17:15:56,790 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 17:15:56,794 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 17:15:59,348 DEBUG [main] BookRunner:14 - Search Box is send in page Home Page
+2021-10-21 17:16:07,469 DEBUG [main] BookRunner:14 - Search Button is clicked in page Home Page
+2021-10-21 17:16:18,086 DEBUG [main] BookRunner:14 - Wings of Fire is clicked in page Search Page
+2021-10-21 17:16:21,503 DEBUG [main] BookRunner:14 - Add To Cart is clicked in page Cart Page
+2021-10-21 17:16:29,539 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 17:16:29,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 17:16:29,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 17:16:29,542 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 17:16:29,543 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-21 17:16:35,793 DEBUG [main] BookRunner:14 - Mobile Cover is clicked in page Home Page
+2021-10-21 17:16:41,890 DEBUG [main] BookRunner:14 - Apple is clicked in page Mobile Cover
+2021-10-21 17:16:47,186 DEBUG [main] BookRunner:14 - iPhone 11 is clicked in page Model Page
+2021-10-21 17:16:57,737 DEBUG [main] BookRunner:14 - Korean Love Sign iPhone 11 Back Cover is clicked in page Cover Page
+2021-10-21 17:16:59,773 DEBUG [main] BookRunner:14 - Add To Cart is clicked in page Cart Page
+2021-10-21 17:17:02,345 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-21 17:17:02,347 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-21 17:17:02,349 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-21 17:17:02,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-21 17:17:02,351 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
