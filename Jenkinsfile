@@ -1,5 +1,5 @@
 pipeline{
-    agent{ label 'windows'}
+    agent{ label 'Build-In Node'}
     tools{
         maven 'default'
     }
