@@ -2,13 +2,12 @@ pipeline{
     agent any
     tools{
         maven 'default'
-        git 'Git'
     }
     stages
     {
         stage('checkout'){
        steps{
-           git 'https://github.com/BirenAmanta/test.git'
+           git branch:'main',url: 'https://github.com/BirenAmanta/test.git'
         }
         }
         stage('Build')
