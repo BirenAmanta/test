@@ -1,7 +1,7 @@
 pipeline{
-    agent{ label 'windows'}
     tools{
         maven 'default'
+        git 'Git'
     }
     stages
     {
