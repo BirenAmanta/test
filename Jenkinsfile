@@ -14,14 +14,14 @@ pipeline{
         {
             steps
             {
-                bat 'clean install'
+                bat 'mvn clean install'
             }
         }
         stage('Test')
         {
             steps
             {
-                bat 'test'
+                bat 'mvn test'
                 junit '**/target/surefire-reports/TEST-*.xml'
             }
         }
