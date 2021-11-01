@@ -1,7 +1,8 @@
 pipeline{
     agent any
-      environment {
-    PATH = "C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\bin;${env.PATH}"
+     tools {
+        maven "default"
+    }
     stages
     {
         stage('checkout'){
@@ -13,17 +14,17 @@ pipeline{
         {
             steps
             {
-                sh 'mvm clean compile'
+                bat 'mvm clean compile'
             }
         }
         stage('Test')
         {
             steps
             {
-                sh 'mvn test'
+                bat 'mvn test'
                 junit '**/target/surefire-reports/TEST-*.xml'
             }
         }
     }
-      }
+      
 }
