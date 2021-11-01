@@ -1,8 +1,7 @@
 pipeline{
     agent any
-    tools{
-        maven 'default'
-    }
+      environment {
+    PATH = "C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\bin;${env.PATH}"
     stages
     {
         stage('checkout'){
@@ -26,5 +25,5 @@ pipeline{
             }
         }
     }
-
+      }
 }
